@@ -1,0 +1,105 @@
+========================
+WHOIS Lookup: google.com
+========================
+Domain Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: https://www.markmonitor.com
+Updated Date: 2024-09-09
+Creation Date: 1997-09-15
+Registry Expiry Date: 2028-09-14
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrant Organization: Google LLC
+Registrant Country: US
+Name Server: NS1.GOOGLE.COM
+Name Server: NS2.GOOGLE.COM
+Name Server: NS3.GOOGLE.COM
+Name Server: NS4.GOOGLE.COM
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+Domain Status: clientUpdateProhibited
+
+========================
+WHOIS Lookup: amazon.com
+========================
+Domain Name: AMAZON.COM
+Registry Domain ID: 281619_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: https://www.markmonitor.com
+Updated Date: 2024-08-12
+Creation Date: 1994-11-01
+Registry Expiry Date: 2030-10-31
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Country: US
+Name Server: NS1.AMAZON.COM
+Name Server: NS2.AMAZON.COM
+Name Server: NS3.AMAZON.COM
+Name Server: NS4.AMAZON.COM
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+
+========================
+WHOIS Lookup: microsoft.com
+========================
+Domain Name: MICROSOFT.COM
+Registry Domain ID: 2724960_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: https://www.markmonitor.com
+Updated Date: 2024-03-20
+Creation Date: 1991-05-02
+Registry Expiry Date: 2026-05-03
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrant Organization: Microsoft Corporation
+Registrant Country: US
+Name Server: NS1.MICROSOFT.COM
+Name Server: NS2.MICROSOFT.COM
+Name Server: NS3.MICROSOFT.COM
+Name Server: NS4.MICROSOFT.COM
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+
+========================
+WHOIS Lookup: github.com
+========================
+Domain Name: GITHUB.COM
+Registry Domain ID: 126498325_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: https://www.markmonitor.com
+Updated Date: 2024-06-14
+Creation Date: 2007-10-09
+Registry Expiry Date: 2026-10-09
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrant Organization: GitHub, Inc.
+Registrant Country: US
+Name Server: DNS1.P01.NSONE.NET
+Name Server: DNS2.P01.NSONE.NET
+Name Server: DNS3.P01.NSONE.NET
+Name Server: DNS4.P01.NSONE.NET
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+
+========================
+WHOIS Lookup: openai.com
+========================
+Domain Name: OPENAI.COM
+Registry Domain ID: 1602384712_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: https://www.markmonitor.com
+Updated Date: 2024-05-10
+Creation Date: 2015-04-16
+Registry Expiry Date: 2027-04-16
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrant Organization: OpenAI, L.L.C.
+Registrant Country: US
+Name Server: NS1.P09.DYNECT.NET
+Name Server: NS2.P09.DYNECT.NET
+Name Server: NS3.P09.DYNECT.NET
+Name Server: NS4.P09.DYNECT.NET
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited

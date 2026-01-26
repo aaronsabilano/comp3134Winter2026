@@ -1,0 +1,49 @@
+========================
+IP Lookup: netflix.com
+========================
+Domain: netflix.com
+IP Address: 52.38.74.6
+Country: United States
+Region: California
+City: Los Angeles
+ISP / Organization: Netflix Streaming Services
+
+========================
+IP Lookup: reddit.com
+========================
+Domain: reddit.com
+IP Address: 151.101.1.140
+Country: United States
+Region: California
+City: San Francisco
+ISP / Organization: Fastly, Inc.
+
+========================
+IP Lookup: wikipedia.org
+========================
+Domain: wikipedia.org
+IP Address: 208.80.154.224
+Country: United States
+Region: Virginia
+City: Ashburn
+ISP / Organization: Wikimedia Foundation
+
+========================
+IP Lookup: stackoverflow.com
+========================
+Domain: stackoverflow.com
+IP Address: 151.101.65.69
+Country: United States
+Region: California
+City: San Francisco
+ISP / Organization: Fastly, Inc.
+
+========================
+IP Lookup: apple.com
+========================
+Domain: apple.com
+IP Address: 17.253.144.10
+Country: United States
+Region: California
+City: Cupertino
+ISP / Organization: Apple Inc.

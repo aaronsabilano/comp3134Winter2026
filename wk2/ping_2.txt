@@ -1,0 +1,12 @@
+$ ping 68.183.200.25 -n 5
+
+Pinging 68.183.200.25 with 32 bytes of data:
+Reply from 68.183.200.25: bytes=32 time=39ms TTL=50
+Reply from 68.183.200.25: bytes=32 time=38ms TTL=50
+Reply from 68.183.200.25: bytes=32 time=233ms TTL=50
+Reply from 68.183.200.25: bytes=32 time=70ms TTL=50
+
+Ping statistics for 68.183.200.25:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 38ms, Maximum = 233ms, Average = 121ms
